@@ -110,5 +110,6 @@ This analysis demonstrates how **data cleaning, EDA, and visualization** can be 
 
 **Lavanya Racha**
 Data Analyst Aspirant
+lavanyaracha38@gmail.com
 
 
